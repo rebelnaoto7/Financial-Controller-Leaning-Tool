@@ -1,0 +1,11 @@
+﻿AccountCode,AccountName,AccountNameJP,PLGroup,Sign,SortOrder
+4000,4000 Revenue,売上高,Revenue,1,1
+5000,5000 Cost of revenue,売上原価,Cost of revenue,-1,2
+6000,6000 Personnel,人件費,Opex,-1,3
+6100,6100 Facilities,施設費（家賃など）,Opex,-1,4
+6200,6200 Marketing,マーケティング費,Opex,-1,5
+6300,6300 Travel & entertainment,旅費交通費・交際費,Opex,-1,6
+6400,6400 Professional fees,専門家報酬,Opex,-1,7
+6500,6500 Intercompany charges,本社への管理費,Opex,-1,8
+6600,6600 Depreciation & amortization,減価償却費,Opex,-1,9
+6900,6900 Other opex,その他の経費,Opex,-1,10
